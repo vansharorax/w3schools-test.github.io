@@ -1,1 +1,1 @@
-Chnage from main branch
+Change from both branches resolved !
